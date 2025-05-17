@@ -29,7 +29,7 @@ Arya Bhumi Seva Sansthan is a non-profit organization dedicated to serving commu
 - **Styling:** Tailwind CSS
 - **Database:** Supabase
 - **Authentication:** Supabase Auth
-- **Deployment:** Vercel
+- **Deployment:** Self-hosted on KVM VPS using CloudPanel and managed with PM2
 
 ## 🛠️ Getting Started
 
@@ -112,7 +112,7 @@ Here are some screenshots of the Arya Bhumi Seva Sansthan web application:
 
 ## 📞 Contact
 
-For any queries or support, please reach out to us at:
+If you'd like a website like this for your organization, business, or personal brand — feel free to reach out!
 - Email: [kumarabhishekmishra28@gmail.com](mailto:kumarabhishekmishra28@gmail.com)
 
 
