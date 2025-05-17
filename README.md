@@ -88,11 +88,18 @@ Here are some screenshots of the Arya Bhumi Seva Sansthan web application:
   <br/>
   <em>Home Page</em>
   <br/><br/>
+  <br/><br/>
+  <img src="public/screenshots/Form.png" alt="Form" width="600"/>
+  <br/>
+  <em>Join Form</em>
+  <br/><br/>
+  <br/><br/>
   <img src="public/screenshots/BloodDonation.png" alt="BloodDonation" width="600"/>
   <br/>
   <em>BloodDonation</em>
   <br/><br/>
-  <img src="public/screenshots/About.png" alt="About" width="300"/>
+  <br/><br/>
+  <img src="public/screenshots/About.png" alt="About" width="600"/>
   <br/>
   <em>About Us Modal</em>
 </div>
