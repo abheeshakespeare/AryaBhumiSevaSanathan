@@ -102,6 +102,11 @@ Here are some screenshots of the Arya Bhumi Seva Sansthan web application:
   <img src="public/screenshots/About.png" alt="About" width="600"/>
   <br/>
   <em>About Us Modal</em>
+  <br/><br/>
+  <br/><br/>
+  <img src="public/screenshots/AdminPanel.png" alt="Admin" width="600"/>
+  <br/>
+  <em>Admin Panel</em>
 </div>
 
 
