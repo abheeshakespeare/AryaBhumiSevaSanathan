@@ -84,17 +84,17 @@ arya-bhumi-seva-sansthan/
 Here are some screenshots of the Arya Bhumi Seva Sansthan web application:
 
 <div align="center">
-  <img src="public/screenshots/home.png" alt="Home Page" width="600"/>
+  <img src="public/screenshots/HomePage.png" alt="Home Page" width="600"/>
   <br/>
   <em>Home Page</em>
   <br/><br/>
-  <img src="public/screenshots/dashboard.png" alt="Dashboard" width="600"/>
+  <img src="public/screenshots/BloodDonation.png" alt="BloodDonation" width="600"/>
   <br/>
-  <em>Dashboard</em>
+  <em>BloodDonation</em>
   <br/><br/>
-  <img src="public/screenshots/mobile-view.png" alt="Mobile View" width="300"/>
+  <img src="public/screenshots/About.png" alt="About" width="300"/>
   <br/>
-  <em>Mobile View</em>
+  <em>About Us Modal</em>
 </div>
 
 
