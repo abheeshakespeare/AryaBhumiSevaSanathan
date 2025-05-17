@@ -121,3 +121,8 @@ If you'd like a website like this for your organization, business, or personal b
 <div align="center">
   Made with ❤️ by Abhishek Mishra
 </div> 
+
+<div align="center">
+  ©️ Copyright
+All rights to the source code, design, and implementation of this website are reserved by Abhishek Mishra (Developer). Unauthorized reproduction or distribution is prohibited.
+</div>
