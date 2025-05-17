@@ -79,28 +79,33 @@ arya-bhumi-seva-sansthan/
 └── prisma/          # Database schema and migrations
 ```
 
-## 🤝 Contributing
+## 🖼️ User Interface
 
-We welcome contributions! Please follow these steps:
+Here are some screenshots of the Arya Bhumi Seva Sansthan web application:
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+<div align="center">
+  <img src="public/screenshots/home.png" alt="Home Page" width="600"/>
+  <br/>
+  <em>Home Page</em>
+  <br/><br/>
+  <img src="public/screenshots/dashboard.png" alt="Dashboard" width="600"/>
+  <br/>
+  <em>Dashboard</em>
+  <br/><br/>
+  <img src="public/screenshots/mobile-view.png" alt="Mobile View" width="300"/>
+  <br/>
+  <em>Mobile View</em>
+</div>
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
 For any queries or support, please reach out to us at:
-- Email: [contact@aryabhumi.org](mailto:contact@aryabhumi.org)
-- Website: [www.aryabhumi.org](https://www.aryabhumi.org)
+- Email: [kumarabhishekmishra28@gmail.com](mailto:kumarabhishekmishra28@gmail.com)
+
 
 ---
 
 <div align="center">
-  Made with ❤️ by Arya Bhumi Seva Sansthan Team
+  Made with ❤️ by Abhishek Mishra
 </div> 
